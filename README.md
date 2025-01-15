@@ -15,5 +15,5 @@ This project was my first experience working with the Django web framework, wher
 **Admin Panel**: Provides an interface to manage posts and user-generated content.
 
 ### Screenshots
-![15 01 2025_14 52 42_REC](https://github.com/user-attachments/assets/947736e5-96fd-4079-a502-56fd2c3e1ad9)
-![15 01 2025_14 52 22_REC](https://github.com/user-attachments/assets/e203be5f-523e-4d22-a7e7-840c8cbaa9cc)
+<img width="776" alt="hobbysite view" src="https://github.com/user-attachments/assets/10b9e836-8887-4890-afc0-52de85fefbd3" />
+<img width="776" alt="article view" src="https://github.com/user-attachments/assets/e4052f70-39b0-423a-ac6d-c4fe1f457db9" />
